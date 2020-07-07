@@ -1,0 +1,206 @@
+@font-face {
+  font-family: CeraPro-Medium;
+  src: url(../fonts/CeraPro-Medium.ttf);
+}
+@font-face {
+  font-family: CeraPro-Light;
+  src: url(../fonts/CeraPro-Light.ttf);
+}
+@font-face {
+  font-family: CeraPro-Regular;
+  src: url(../fonts/CeraPro-Regular.ttf);
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+  font-family: CeraPro-Medium;
+  margin: 0;
+  background-color: #f7f7f7;
+}
+
+div {
+ /* border-style: solid; */
+}
+.regular {
+  font-family: CeraPro-Regular;
+}
+.light {
+  font-family: CeraPro-Light;
+}
+
+#header {
+  height: 16%;
+  line-height: 0.8;
+  font-size: 14px;
+  margin-top: 4%;
+  width: 100%;
+}
+
+#logo {
+  display: inline-block;
+  height: 62.67%;
+  width: 40%;
+  padding-left: 4%;
+  overflow: hidden;
+}
+
+#nav{
+  display: inline-block;
+  position: absolute;
+  height: 66.67%;
+  padding-top: 2px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.link {
+  list-style-type: none;
+}
+
+.icon-div {
+  display: inline-block;
+  overflow: hidden;
+  width: 25px;
+  height: 21px;
+}
+.items {
+  display: inline-block;
+  padding-left: 10px;
+}
+
+.hovered-link {
+  height: 25px;
+  width: 25px;
+  margin-top: 2px;
+}
+
+#coordinate{
+  height: 33.33%;
+  padding-left: 35px;
+  padding-top: 10%;
+}
+h1 {
+  font-size: 18px;
+}
+
+#selected-work {
+  height: 100%;
+  width: 100%;
+  margin-left: 0;
+}
+
+#selected-work h1 {
+  padding-left: 35px;
+  margin-left: 44%;
+  margin-top: 20vh;
+}
+
+#slider-container {
+  /* background-color: blue; */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 4% 0 4%;
+  width: auto;
+  height: 90vh;
+  overflow: hidden;
+}
+
+.arrow {
+  width: 3%;
+  height: 100%;
+  display: inline-block;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  /* margin-top: 45vh; */
+  opacity: 0;
+  cursor: pointer;
+}
+
+#left-arrow-area {
+  background-image: url("../icons/leftarrow-icon.png");
+}
+
+#between-arrows {
+  width: 93%;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 988px) {
+  #between-arrows {
+    width: 88%;
+  }
+}
+
+@media only screen and (max-width: 525px) {
+  #between-arrows {
+    width: 86%;
+  }
+}
+
+#right-arrow-area {
+  background-image: url("../icons/rightarrow-icon.png");
+}
+
+.hideout {
+  background-color: #f7f7f7;
+  /* opacity: .5; */
+}
+
+#vertical-hide {
+  /* background-color: blue; */
+  width: 100%;
+  height: 100%;
+  margin-top: -95vh;
+}
+
+#horizontal-hide {
+  /* background-color: red; */
+  width: 100%;
+  height: 200%;
+  /* margin-top: -90vh; */
+}
+
+.caption {
+  display: none;
+  z-index: 1000;
+  position: absolute;
+  margin-top: -92vh;
+  margin-left: 3vh;
+  cursor: pointer;
+}
+
+#about {
+  height: 80%;
+  margin-left: 44%;
+  padding-left: 35px;
+  line-height: 1.4;
+  padding-right: 4%;
+}
+
+.specific-work {
+  display: none;
+  margin: 4% 4% 0 4%;
+  padding-bottom: 20vh;
+}
+
+.specific-work img{
+  max-width: 92vw;
+  height: auto;
+  max-height: 100vh;
+  padding-bottom: 5vh;
+  padding-right: 50vw;
+  opacity: 0;
+}
+
+.specific-work p {
+  font-family: CeraPro-Light;
+  width: 33%;
+  line-height: 1.4;
+  padding-bottom: 5vh;
+}
