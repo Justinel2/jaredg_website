@@ -24,10 +24,10 @@ function setup() {
   $leftArrow.on('click', goBackSlider);
   $rightArrow.on('click', goNextSlider);
 
-  slideImages.push("images/_MG_9655_crop.jpg");
-  slideImages.push("images/cassette1.jpg");
-  slideImages.push("images/bag1_reduced.jpg");
-  slideImages.push("images/game5.jpg");
+  slideImages.push("icons/_MG_9655_crop.jpg");
+  slideImages.push("icons/cassette1.jpg");
+  slideImages.push("icons/bag1_reduced.jpg");
+  slideImages.push("icons/game5.jpg");
 
   slideCaptions.push("Coffee Table Low, 2019 +");
   slideCaptions.push("Cassette Tape Organizer, 2019 +");
