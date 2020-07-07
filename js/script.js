@@ -1,4 +1,4 @@
-
+///
 let $iconNav;
 let $navLink
 let $leftArrow;
