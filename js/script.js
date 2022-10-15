@@ -1,6 +1,6 @@
 
 const fullOpacity = 1; 
-const lowOpacity = 0.5;
+const lowOpacity = 0.3;
 
 let isOnMainMenu = false;
 let isOnTabMenu = false;
@@ -35,7 +35,7 @@ function makeItemInactive() {
 
 
 function blurSiblingsParent() {
-    $(this).parent().siblings().animate({opacity: lowOpacity}, 500);
+    $(this).parent().siblings().animate({opacity: lowOpacity}, 50);
     $(this).parent().animate({opacity: fullOpacity}, 50);
 }
 
