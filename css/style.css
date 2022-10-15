@@ -153,10 +153,16 @@ ul {
 #projects-menu div{
   margin-right: 3vw;
   cursor: pointer;
+  color: #FFE5F4;
 }
 
 #projects-menu p{
   font-size: 2.5vw;
+}
+
+.project-caption {
+  color: #1c2120;
+  font-size: 20px;
 }
 
 #test {
@@ -285,12 +291,13 @@ ul {
   }
 
   #projects-menu div {
-    background-color: yellow;
+    background-color: #FFE5F4;
     padding-top: 0.5vw;
     padding-bottom: 0.5vw;
     margin-bottom: 0.5vw;
-    border: 2px solid yellow;
-    color: blue;
+    border: 2px solid #FFE5F4;
+    color: #1c2120;
+    margin-right: 0;
   }
 
   #projects-menu div p {
@@ -314,6 +321,7 @@ ul {
   
   .project-list-element-thumbnail {
     height: 100vh;
+    max-width: none;
   }
 
   .project-caption {
