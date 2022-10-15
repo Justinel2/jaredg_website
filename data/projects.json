@@ -1,0 +1,130 @@
+{
+    "fabrication":{
+        
+        "1": {
+            "title": "Cassette Tape Organizer",
+            "description": "Revolving cassette tape organizer. Made with birch wood. 2019.",
+            "thumbnail": "cassette1.jpg",
+            "picture2": "cassette3.jpg",
+            "picture3": "cassette4.jpg",
+            "picture4": "cassette6.jpg",
+            "page": "CassetteTapeOrganizer"
+        },
+
+        "2": {
+            "title": "Coffee Table",
+            "description": "31 x 12 x 14 inches, birch wood, laser engraved. Made in 2019.",
+            "thumbnail": "CoffeeTable1.jpg",
+            "picture2": "CoffeeTable2.jpg",
+            "picture3": "CoffeeTable3.jpg",
+            "picture4": "CoffeeTable4.jpg",
+            "picture5": "CoffeeTable5.jpg",
+            "page": "CoffeeTable"
+        },
+        
+        "3": {
+            "title": "Puzzle Shelf",
+            "description": "Multiple wooden blocks designed to fit like puzzle pieces. Blocks can be played with and rearranged anyway you would like to create an interesting display or removed completely if you’d like to use the casing as a shelf. Can be hung from the wall. Made with birch wood. 2019.",
+            "thumbnail": "puzzle_shelf_1.jpg",
+            "picture2": "puzzle_shelf_2.jpg",
+            "picture3": "puzzle_shelf_3.jpg",
+            "picture4": "puzzle_shelf_4.jpg",
+            "picture5": "puzzle_shelf_5.jpg",
+            "page": "PuzzleShelf"
+        },
+
+        "4": {
+            "title": "Mmoss Bag",
+            "description": "Cross body bag made from organic cotton fabric, hand dyed using onion skins and iron powder and coated in a beeswax finish for water resistancy. Made in 2019.",
+            "thumbnail": "bag1_reduced.jpg",
+            "picture2": "bag2_reduced.jpg",
+            "picture3": "bag3_reduced.jpg",
+            "picture4": "bag4_reduced.jpg",
+            "picture5": "bag5_reduced.jpg",
+            "picture6": "bag6_reduced.jpg",
+            "picture7": "bag8_reduced.jpg",
+            "page": "MmossBag"
+        },
+
+        "5": {
+            "title": "Gradient Vormmaker",
+            "description": "",
+            "thumbnail": "GradientVormmaker.jpg",
+            "picture2": "GradientVormmaker1.jpg",
+            "picture3": "GradientVormmaker2.jpg",
+            "picture4": "GradientVormmaker3.jpg",
+            "picture5": "GradientVormmaker4.jpg",
+            "picture6": "GradientVormmaker5.jpg",
+            "picture7": "GradientVormmaker6.png",
+            "page": "GradientVormmaker"
+        },
+
+        "6": {
+            "title": "Podia",
+            "description": "Multipurpose bench designed for use in open public spaces. The bench can be used in a variety of ways for sitting, sleeping, relaxing or playing. Designed and rendered using Rhino 3D. 2020.",
+            "thumbnail": "Podia_1.jpg",
+            "picture2": "Podia_2.jpg",
+            "page": "Podia"
+        }
+
+    },
+
+    "graphicdesignuxui":{
+        
+        "1": {
+            "title": "Untitled: Winter 2019",
+            "description": "",
+            "thumbnail": "untitled_winter2019_book1.jpg",
+            "picture2": "untitled_winter2019_book2.jpg",
+            "picture3": "untitled_winter2019_book3.jpg",
+            "picture4": "untitled_winter2019_book4.jpg",
+            "picture5": "untitled_winter2019_book5.jpg",
+            "picture6": "untitled_winter2019_book6.jpg",
+            "page": "UtitledWinter2019"
+        },
+
+        "2": {
+            "title": "Environmental Graphics: The Space Between Exhibition (2019)",
+            "description": "Year end Design and Computation Arts show at Concordia University. I developed the concept for an interactive map to be implemented into the exhibition website. Since the show was in 2020 at the height of the pandemic, the exhibition would be strictly online. I worked closely with members of the web development team who made this aspect of the show possible. The map features clickable icons which would open a display for viewers to learn about one of the many local businesses that had sponsored the show. ",
+            "thumbnail": "EnvironmentalGraphics1.png",
+            "picture2": "EnvironmentalGraphics2.png",
+            "picture3": "EnvironmentalGraphics3.png",
+            "page": "SpaceBetween"
+        },
+
+        "3": {
+            "title": "You",
+            "description": "",
+            "thumbnail": "You1.JPG",
+            "picture2": "You2.JPG",
+            "picture3": "You3.JPG",
+            "picture4": "You4.JPG",
+            "picture5": "You5.JPG",
+            "page": "You"
+        },
+
+        "4": {
+            "title": "Passive Space Gallery",
+            "description": "Temporary public art gallery intended to host exhibitions at no cost for visitors. This structure was created to provide visitors with a comfortable environment to view the artist's work, while being completely passive. Materials and designs were chosen so that the gallery would be able to keep visitors warm during the winter and comfortable during the hot summer months. Designed and rendered using Rhino 3D. 2020.",
+            "thumbnail": "PassiveGallery1.jpg",
+            "picture2": "PassiveGallery2.jpg",
+            "picture3": "PassiveGallery3.jpg",
+            "page": "PassiveSpaceGallery"
+        }
+
+    },
+
+    "arteducation":{
+        
+        "1": {
+            "title": "Digital Art Therapy Leader",
+            "description": "During 2019  2020 I hosted a weekly art therapy workshop along with six other students. Each week we would collaboratively develop a lesson plan which we would work on with the participants. The participants varied in age from 18  65 years of age and had visual, audio, linguistic and physical disabilities or impairments. Many of them had never used a computer before. Our projects were heavily based around using the Adobe suite such as; PhotoShop, Illustrator and Animate. We were successfully able to create engaging workshops which helped build the confidence of our participants as well as their knowledge of computers and what can be created using them. Our team was able to provide a space of positive support which led to the development of many strong relationships with the participants.",
+            "thumbnail": "DART453Screenshot2.png",
+            "picture2": "DART453Screenshot3.png",
+            "picture3": "DART453Screenshot4.png",
+            "page": "DigitalArtTherapy"
+        }
+    
+    }
+
+}
