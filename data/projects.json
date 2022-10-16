@@ -16,7 +16,6 @@
             "description": "31 x 12 x 14 inches, birch wood, laser engraved. Made in 2019.",
             "thumbnail": "CoffeeTable1.jpg",
             "picture2": "CoffeeTable2.jpg",
-            "picture3": "CoffeeTable3.jpg",
             "picture4": "CoffeeTable4.jpg",
             "picture5": "CoffeeTable5.jpg",
             "page": "CoffeeTable"
@@ -55,7 +54,7 @@
             "picture4": "GradientVormmaker3.jpg",
             "picture5": "GradientVormmaker4.jpg",
             "picture6": "GradientVormmaker5.jpg",
-            "picture7": "GradientVormmaker6.png",
+            "picture7": "GradientVormmaker6.jpg",
             "page": "GradientVormmaker"
         },
 
@@ -86,9 +85,9 @@
         "2": {
             "title": "Environmental Graphics: The Space Between Exhibition (2019)",
             "description": "Year end Design and Computation Arts show at Concordia University. I developed the concept for an interactive map to be implemented into the exhibition website. Since the show was in 2020 at the height of the pandemic, the exhibition would be strictly online. I worked closely with members of the web development team who made this aspect of the show possible. The map features clickable icons which would open a display for viewers to learn about one of the many local businesses that had sponsored the show. ",
-            "thumbnail": "EnvironmentalGraphics1.png",
-            "picture2": "EnvironmentalGraphics2.png",
-            "picture3": "EnvironmentalGraphics3.png",
+            "thumbnail": "EnvironmentalGraphics1.jpg",
+            "picture2": "EnvironmentalGraphics2.jpg",
+            "picture3": "EnvironmentalGraphics3.jpg",
             "page": "SpaceBetween"
         },
 
@@ -128,9 +127,9 @@
         "1": {
             "title": "Digital Art Therapy Leader",
             "description": "During 2019  2020 I hosted a weekly art therapy workshop along with six other students. Each week we would collaboratively develop a lesson plan which we would work on with the participants. The participants varied in age from 18  65 years of age and had visual, audio, linguistic and physical disabilities or impairments. Many of them had never used a computer before. Our projects were heavily based around using the Adobe suite such as; PhotoShop, Illustrator and Animate. We were successfully able to create engaging workshops which helped build the confidence of our participants as well as their knowledge of computers and what can be created using them. Our team was able to provide a space of positive support which led to the development of many strong relationships with the participants.",
-            "thumbnail": "DART453Screenshot2.png",
-            "picture2": "DART453Screenshot3.png",
-            "picture3": "DART453Screenshot4.png",
+            "thumbnail": "DART453Screenshot2.jpg",
+            "picture2": "DART453Screenshot3.jpg",
+            "picture3": "DART453Screenshot4.jpg",
             "page": "DigitalArtTherapy"
         }
     
