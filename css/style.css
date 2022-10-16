@@ -33,7 +33,7 @@ html, body {
 }
 
 a {
-  color: #FFE5F4;
+  color: #FFD7F4;
   text-decoration: none;
 }
 
@@ -42,7 +42,7 @@ a {
 }
 
 #name {
-  color: #FFE5F4
+  color: #FFD7F4;
 }
 
 .flex-container-space-between {
@@ -151,7 +151,7 @@ ul {
 #projects-menu div{
   margin-right: 3vw;
   cursor: pointer;
-  color: #FFE5F4;
+  color: #FFD7F4;
 }
 
 #projects-menu p{
@@ -222,7 +222,7 @@ ul {
   #home-menu-selection-worktype a li {
     /* padding-top: 10px; */
     margin-bottom: 50px;
-    border-left: 2px solid #FFE5F4;
+    border-left: 2px solid #FFD7F4;
     padding-left: 10px;
     width: 45vw;
   }
@@ -276,7 +276,7 @@ ul {
   }
 
   ul a li{
-    border-top: 2px solid #FFE5F4;
+    border-top: 2px solid #FFD7F4;
     /* font-size: larger; */
     /* line-height: 2.5; */
   }
@@ -287,11 +287,11 @@ ul {
   }
 
   #projects-menu div {
-    background-color: #FFE5F4;
+    background-color: #FFD7F4;
     padding-top: 0.5vw;
     padding-bottom: 0.5vw;
     margin-bottom: 0.5vw;
-    border: 2px solid #FFE5F4;
+    border: 2px solid #FFD7F4;
     color: #1c2120;
     margin-right: 0;
   }
@@ -303,7 +303,7 @@ ul {
   }
 
   #art-education {
-    border-bottom: 2px solid #FFE5F4;
+    border-bottom: 2px solid #FFD7F4;
   }
 
   #work-title {

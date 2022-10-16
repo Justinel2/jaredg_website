@@ -1,4 +1,3 @@
-
 const fullOpacity = 1; 
 const lowOpacity = 0.3;
 
