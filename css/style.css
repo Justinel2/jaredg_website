@@ -161,6 +161,7 @@ ul {
 .project-caption {
   color: #1c2120;
   font-size: 20px;
+  line-height: 1.4;
 }
 
 #test {
@@ -178,7 +179,6 @@ ul {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  margin-top: 10vh;
 }
 
 #project-header p {
