@@ -110,6 +110,15 @@
             "picture2": "PassiveGallery2.jpg",
             "picture3": "PassiveGallery3.jpg",
             "page": "PassiveSpaceGallery"
+        },
+
+        "5": {
+            "title": "Gravediggaz “6 Feet Deep” Album Cover Redesign",
+            "description": "12” vinyl album artwork reimagined for one of the most influential hiphop records of all time. Designed by Jared Grasby in 2018.",
+            "thumbnail": "albumcover_InnerSleeve_2.jpg",
+            "picture2": "albumcover_jacketcover_1.jpg",
+            "picture3": "albumcover_label_3.jpg",
+            "page": "GravediggazAlbumCoverRedesign"
         }
 
     },
